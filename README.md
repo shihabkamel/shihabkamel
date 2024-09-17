@@ -20,7 +20,7 @@ I am a highly motivated Computer Science and Engineering graduate from Banglades
 - C, C++, Python, Java, SQL, C#.Net
 
 ### Web Technologies
-- HTML, CSS, JavaScript, JQuery, PHP, LARAVEL
+- HTML, CSS, JavaScript, JQuery, PHP, LARAVEL , VUE.JS
 
 ### Databases
 - SQL Server (OLAP and OLTP database), MySQL
