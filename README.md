@@ -10,20 +10,20 @@ I am a highly motivated Computer Science and Engineering graduate from Banglades
 
 ## Academic Qualification
 
-- 🎓 **Bachelor's Degree:** B.Sc in Computer Science and Engineering from BAUST, Saidpur (2023)
+- 🎓 **Bachelor's Degree:** B.Sc in Computer Science and Engineering from BAUST, Saidpur (September,2023)
 - 🎓 **Higher Secondary Education:** Science from Satkhira Govt. College (2018)
 - 🎓 **Secondary School Education:** Science from Satkhira Govt. High School (2016)
 
 ## Technical Skills
 
-### Programming Languages and Frameworks
-- C, C++, Python, Java, SQL, C#.Net
+### Programming Languages 
+- C, C++, Python, Java,C#.Net, HTML, CSS, JavaScript, JQuery, PHP,
 
-### Web Technologies
-- HTML, CSS, JavaScript, JQuery, PHP, LARAVEL , VUE.JS
+### Web Technologies and Frameworks
+- LARAVEL, VUE.JS
 
 ### Databases
-- SQL Server (OLAP and OLTP database), MySQL
+- SQL Server (OLAP and OLTP database), MySQL,  SQL
 
 ### Toolkits
 - LaTex, MATLAB
