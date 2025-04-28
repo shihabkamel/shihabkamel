@@ -17,7 +17,7 @@ I am a highly motivated Computer Science and Engineering graduate from Banglades
 ## Technical Skills
 
 ### Programming Languages 
-- C, C++, Python, Java,C#.Net, HTML, CSS, JavaScript, JQuery, PHP,
+- C, C++, Go, Python, Java,C#.Net, HTML, CSS, JavaScript, JQuery, PHP,
 
 ### Web Technologies and Frameworks
 - LARAVEL, VUE.JS
